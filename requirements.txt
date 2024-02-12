@@ -1,0 +1,9 @@
+google-api-python-client
+python-dotenv
+google-generativeai
+gradio
+transformers
+moviepy
+soundfile
+datasets
+chardet
