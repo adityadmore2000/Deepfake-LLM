@@ -22,6 +22,6 @@ defaults = {
 
 SESSION_HEADERS = {
     "accept" : "application/json",
-    "content-type" : "application/json",
-    "x-api-key" : os.getenv("HYEGEN_API_KEY")
+    "Content-Type" : "application/json",
+    "X-Api-Key" : os.getenv("HYEGEN_API_KEY")
 }

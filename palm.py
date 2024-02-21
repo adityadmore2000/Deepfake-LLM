@@ -27,4 +27,5 @@ class Palm:
     ],
             prompt=prompt
         )
+        print("response result: ",response.result)
         return response.result
